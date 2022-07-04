@@ -1,0 +1,5 @@
+from .documentacion_viewset import DocumentacionViewSet
+from .puntosPorJugador_viewset import PuntosPorJugadorViewSet
+from .documentacionHechoPorJugador_viewset import DocumentacionHechoPorJugadorViewSet
+from .programacion_viewset import ProgramacionViewSet
+from .programacionHechoPorJugador_viewset import ProgramacionHechoPorJugadorViewSet

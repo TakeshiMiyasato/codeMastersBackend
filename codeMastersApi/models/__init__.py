@@ -1,0 +1,5 @@
+from .documentacion import Documentacion
+from .puntosPorJugador import PuntosPorJugador
+from .documentacionHechoPorJugador import DocumentacionHechoPorJugador
+from .programacion import Programacion
+from .programacionHechoPorJugador import ProgramacionHechoPorJugador
